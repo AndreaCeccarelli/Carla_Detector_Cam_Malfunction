@@ -1,3 +1,9 @@
+E' il github associato alla Tesi Triennale in Informatica (Univ. di Firenze): 
+
+P. Bernabei. "Individuazione di immagini alterate da una telecamera RGB mal funzionante attraverso un agente addestrato". Corso di Laurea in Informatica, Università degli Studi di Firenze. Supervisor: A. Ceccarelli. 2020.
+
+Disponibile su: http://rcl.dimai.unifi.it/publication/show/931
+
 # carla-detector-cam-malfunction
 
 ## Istruzioni per avviare CARLA:
